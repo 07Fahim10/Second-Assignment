@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.navbar-custom {
+    background: linear-gradient(to right, #f8f8f8, #fff);
+  }
+  .btn-custom {
+    background-color: #ff7f50; /* Coral Color */
+    font-size: 18px;
+
+  }
+  .btn-custom:hover {
+      background-color: #ff7f50;
+      color: white;
+    opacity: 0.8;
+  }
