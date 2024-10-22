@@ -3,12 +3,12 @@
     padding: 0;
     box-sizing: border-box;
 }
-
+/* nav style */
 .navbar-custom {
     background: linear-gradient(to right, #f8f8f8, #fff);
   }
   .btn-custom {
-    background-color: #ff7f50; /* Coral Color */
+    background-color: #ff7f50;
     font-size: 18px;
 
   }
@@ -17,3 +17,25 @@
       color: white;
     opacity: 0.8;
   }
+  /* end nav style */
+  /* hero style */
+  .content-section {
+    padding: 20px;
+}
+.content-section .content {
+    max-width: 100%;
+    padding: 20px;
+
+}
+.carousel img {
+    width: 100%;
+    height: auto;
+}
+.btn-custom {
+    background-color: orange;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+/* end hero style */
