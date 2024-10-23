@@ -397,3 +397,16 @@ color: #8A47F6;
     cursor: pointer;
 }
 /* end footer style */
+
+/* add custom scrolbar */
+::-webkit-scrollbar{
+    width: 5px;
+    height: 7px;
+}
+
+::-webkit-scrollbar-thumb{
+    background: #FE8C45;
+}
+/* end custom scrolbar */
+
+                                                /* Alhamdulillah For Everything */
