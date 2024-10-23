@@ -314,3 +314,45 @@ color: #8A47F6;
 
 }
 /* end instagram feed style */
+
+/* start footer style */
+.ul-custom li{
+    text-decoration: underline;
+}
+
+
+.ul-custom li:hover{
+    text-decoration: none;
+    color: gold;
+    cursor: pointer;
+
+}
+
+.icon-custom .faceicon{
+    color: white;
+}
+
+.icon-custom .faceicon:hover{
+    color: #1877F2;
+    cursor: pointer;
+}
+
+.icon-custom .insta-icon{
+    color: white;
+}
+
+.icon-custom .insta-icon:hover{
+    color:  #c13584;
+    cursor: pointer;
+}
+
+
+.icon-custom .twit-icon{
+    color: white;
+}
+
+.icon-custom .twit-icon:hover{
+    color:#1DA1F2;
+    cursor: pointer;
+}
+/* end footer style */
